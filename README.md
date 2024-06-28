@@ -55,7 +55,7 @@ Usage
 Run the script with a YouTube URL:
 Copypython main.py --youtube_url https://www.youtube.com/watch?v=VIDEO_ID
 Additional options:
-
+```
 --config: Specify a custom config file path
 --model_path: Path to the YOLO model file
 --video_quality: YouTube video download quality
@@ -65,7 +65,7 @@ Additional options:
 --short_duration: Target duration of each short in seconds
 --proxy_scale: Scale factor for proxy video used in processing
 --skip_frames: Number of frames to skip during processing
-
+```
 Output
 Generated short videos will be saved in the specified output directory, organized by video ID.
 Contributing
@@ -74,12 +74,12 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Copy
 To set up the script:
-
+```
 1. Create a new repository on GitHub with the name "youtube-shorts-generator".
 2. Initialize a git repository in your local project folder.
 3. Add all your script files, including `main.py`, `requirements.txt`, and the `README.md`.
 4. Commit these files and push them to your GitHub repository.
 5. Create a `requirements.txt` file listing all the Python packages required for your script. You can generate this using `pip freeze > requirements.txt` in your virtual environment.
 6. Create a `LICENSE` file if you want to specify a license for your project.
-
+```
 This setup will provide a clear guide for users on how to install, configure, and use your YouTube Shorts Generator script.
