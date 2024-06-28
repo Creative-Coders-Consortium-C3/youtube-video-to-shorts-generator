@@ -22,7 +22,7 @@ This tool automatically generates short, vertical videos from YouTube content, f
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/youtube-shorts-generator.git
+git clone https://github.com/Enigmaticelectro/youtube-video-shorts-generator.git
 cd youtube-shorts-generator
 Copy
 2. Create a virtual environment and activate it:
