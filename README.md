@@ -50,6 +50,7 @@ short_duration = 45
 proxy_scale = 0.3
 skip_frames = 3
 Adjust these values as needed for your setup.
+```
 Usage
 Run the script with a YouTube URL:
 Copypython main.py --youtube_url https://www.youtube.com/watch?v=VIDEO_ID
