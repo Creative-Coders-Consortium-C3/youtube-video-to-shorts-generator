@@ -82,4 +82,4 @@ To set up the script:
 5. Create a `requirements.txt` file listing all the Python packages required for your script. You can generate this using `pip freeze > requirements.txt` in your virtual environment.
 6. Create a `LICENSE` file if you want to specify a license for your project.
 ```
-This setup will provide a clear guide for users on how to install, configure, and use your YouTube Shorts Generator script.
+This setup will provide a clear guide on how to install, configure, and use your YouTube Shorts Generator script.
